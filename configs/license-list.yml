@@ -1,0 +1,29 @@
+---
+# <--------------------- ALLOW LIST ---------------------->
+- - :permit
+  - Apache 2.0
+- - :permit
+  - MIT
+- - :permit
+  - ISC
+- - :permit
+  - New BSD
+- - :permit
+  - Python-2.0
+- - :permit
+  - Simplified BSD
+- - :permit
+  - (AFL-2.1 OR BSD-3-Clause)
+- - :permit
+  - Unlicense
+- - :permit
+  - unknown
+# <---------------------- DENY LIST ---------------------->
+- - :restrict
+  - AGPL-3.0
+- - :restrict
+  - CC-BY-NC-3.0
+- - :restrict
+  - SSPL-1.0
+- - :restrict
+  - Sleepycat
