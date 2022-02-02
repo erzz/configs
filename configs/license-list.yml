@@ -27,3 +27,5 @@
   - SSPL-1.0
 - - :restrict
   - Sleepycat
+- - :restrict
+  - MIT
