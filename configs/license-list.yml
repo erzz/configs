@@ -1,13 +1,10 @@
 ---
 # <--------------------- ALLOW LIST ---------------------->
+#### BSD Variants
 - - :permit
   - 3-Clause BSD License
 - - :permit
   - (AFL-2.1 OR BSD-3-Clause)
-- - :permit
-  - Apache 2.0
-- - :permit
-  - Bouncy Castle Licence
 - - :permit
   - BSD
 - - :permit
@@ -15,31 +12,40 @@
 - - :permit
   - BSD License 3
 - - :permit
-  - EDL 1.0
+  - New BSD
+- - :permit
+  - Simplified BSD
+#### Apache Variants
+- - :permit
+  - Apache 2.0
+#### Eclipse Variants
 - - :permit
   - Eclipse Distribution License - v 1.0
 - - :permit
-  - "Eclipse Distribution License v. 1.0, Eclipse Public License v. 2.0"
+  - Eclipse Distribution License v. 1.0
+- - :permit
+  - EDL 1.0
+#### MIT Variants
 - - :permit
   - MIT
 - - :permit
   - The MIT License (MIT)
+#### Creative Commons Variants
+- - :permit
+  - "Public Domain, per Creative Commons CC0"
+#### Other
+- - :permit
+  - Bouncy Castle Licence
 - - :permit
   - ISC
 - - :permit
-  - New BSD
-- - :permit
-  - Public Domain, per Creative Commons CC0
-- - :permit
   - Python-2.0
 - - :permit
-  - Simplified BSD
+  - unknown
 - - :permit
   - Unlicense
 - - :permit
   - UNLICENSED
-- - :permit
-  - unknown
 - - :permit
   - W3C
 # <---------------------- DENY LIST ---------------------->
@@ -51,24 +57,34 @@
   - SSPL-1.0
 - - :restrict
   - Sleepycat
+- - :restrict
+  - Sun Proprietary Non Commercial License
 # <-------------------- APPROVAL LIST -------------------->
 - - :permit
+  - Eclipse Public License 1.0
+- - :permit
+  - Eclipse Public License v. 2.0
+- - :permit
   - Eclipse Public License - v 2.0
+- - :permit
+  - Eclipse Public License v2.0
+- - :permit
+  - EPL 2.0
 - - :permit
   - MPL 2.0 or EPL 1.0
 - - :permit
   - GNU Library General Public License v2.1 or later
 - - :permit
-  - "EPL 2.0, GPL2 w/ CPE"
-- - :permit
   - CDDL + GPLv2 with classpath exception
 - - :permit
-  - "Eclipse Public License 1.0, GNU Lesser General Public License"
+  - GNU Lesser General Public License
 - - :permit
-  - Eclipse Public License - v 2.0, GNU Lesser General Public License version 2.1, GPLv2
+  - GNU Lesser General Public License version 2.1
 - - :permit
-  - Eclipse Public License v2.0
+  - "GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1"
+- - :permit
+  - GPLv2
+- - :permit
+  - GPL2 w/ CPE
 - - :permit
   - Go License
-- - :permit
-  - GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1
