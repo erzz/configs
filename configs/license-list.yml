@@ -1,19 +1,39 @@
 ---
 # <--------------------- ALLOW LIST ---------------------->
 - - :permit
+  - 3-Clause BSD License
+- - :permit
+  - (AFL-2.1 OR BSD-3-Clause)
+- - :permit
   - Apache 2.0
 - - :permit
+  - Bouncy Castle Licence
+- - :permit
+  - BSD
+- - :permit
+  - BSD 3-clause
+- - :permit
+  - BSD License 3
+- - :permit
+  - EDL 1.0
+- - :permit
+  - Eclipse Distribution License - v 1.0
+- - :permit
+  - "Eclipse Distribution License v. 1.0, Eclipse Public License v. 2.0"
+- - :permit
   - MIT
+- - :permit
+  - The MIT License (MIT)
 - - :permit
   - ISC
 - - :permit
   - New BSD
 - - :permit
+  - Public Domain, per Creative Commons CC0
+- - :permit
   - Python-2.0
 - - :permit
   - Simplified BSD
-- - :permit
-  - (AFL-2.1 OR BSD-3-Clause)
 - - :permit
   - Unlicense
 - - :permit
@@ -31,3 +51,24 @@
   - SSPL-1.0
 - - :restrict
   - Sleepycat
+# <-------------------- APPROVAL LIST -------------------->
+- - :permit
+  - Eclipse Public License - v 2.0
+- - :permit
+  - MPL 2.0 or EPL 1.0
+- - :permit
+  - GNU Library General Public License v2.1 or later
+- - :permit
+  - "EPL 2.0, GPL2 w/ CPE"
+- - :permit
+  - CDDL + GPLv2 with classpath exception
+- - :permit
+  - "Eclipse Public License 1.0, GNU Lesser General Public License"
+- - :permit
+  - Eclipse Public License - v 2.0, GNU Lesser General Public License version 2.1, GPLv2
+- - :permit
+  - Eclipse Public License v2.0
+- - :permit
+  - Go License
+- - :permit
+  - GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1
