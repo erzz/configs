@@ -2,8 +2,8 @@
 # <--------------------- ALLOW LIST ---------------------->
 - - :permit
   - Apache 2.0
-- - :permit
-  - MIT
+#- - :permit
+#  - MIT
 - - :permit
   - ISC
 - - :permit
