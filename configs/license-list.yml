@@ -110,3 +110,15 @@
   - elasticsearch-secure-sm
 - - :approve
   - elasticsearch-x-content
+- - :approve
+- aggs-matrix-stats-client
+- - :approve
+- lang-mustache-client
+- - :approve
+- mapper-extras-client
+- - :approve
+- parent-join-client
+- - :approve
+- rank-eval-client
+- - :approve
+- transport-netty4-client
