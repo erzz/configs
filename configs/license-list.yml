@@ -32,6 +32,8 @@
   - The MIT License (MIT)
 #### Creative Commons Variants
 - - :permit
+  - CC0
+- - :permit
   - "Public Domain, per Creative Commons CC0"
 #### Other
 - - :permit
@@ -88,3 +90,21 @@
   - GPL2 w/ CPE
 - - :permit
   - Go License
+# <----------- SPECIFIC DEPENDENCY APPROVALS ------------->
+#### ELASTIC SEARCH CLIENT
+- - :approve
+  - elasticsearch
+- - :approve
+  - elasticsearch-cli
+- - :approve
+  - elasticsearch-core
+- - :approve
+  - elasticsearch-geo
+- - :approve
+  - elasticsearch-plugin-classloader
+- - :approve
+  - elasticsearch-rest-high-level-client
+- - :approve
+  - elasticsearch-secure-sm
+- - :approve
+  - elasticsearch-x-content
