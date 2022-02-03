@@ -111,14 +111,14 @@
 - - :approve
   - elasticsearch-x-content
 - - :approve
-- aggs-matrix-stats-client
+  - aggs-matrix-stats-client
 - - :approve
-- lang-mustache-client
+  - lang-mustache-client
 - - :approve
-- mapper-extras-client
+  - mapper-extras-client
 - - :approve
-- parent-join-client
+  - parent-join-client
 - - :approve
-- rank-eval-client
+  - rank-eval-client
 - - :approve
-- transport-netty4-client
+  - transport-netty4-client
