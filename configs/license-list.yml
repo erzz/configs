@@ -60,31 +60,31 @@
 - - :restrict
   - Sun Proprietary Non Commercial License
 # <-------------------- APPROVAL LIST -------------------->
-- - :permit
-  - Eclipse Public License 1.0
-- - :permit
-  - Eclipse Public License v. 2.0
-- - :permit
-  - Eclipse Public License - v 2.0
-- - :permit
-  - Eclipse Public License v2.0
-- - :permit
-  - EPL 2.0
-- - :permit
-  - MPL 2.0 or EPL 1.0
-- - :permit
-  - GNU Library General Public License v2.1 or later
-- - :permit
-  - CDDL + GPLv2 with classpath exception
-- - :permit
-  - GNU Lesser General Public License
-- - :permit
-  - GNU Lesser General Public License version 2.1
-- - :permit
-  - "GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1"
-- - :permit
-  - GPLv2
-- - :permit
-  - GPL2 w/ CPE
-- - :permit
-  - Go License
+# - - :permit
+#   - Eclipse Public License 1.0
+# - - :permit
+#   - Eclipse Public License v. 2.0
+# - - :permit
+#   - Eclipse Public License - v 2.0
+# - - :permit
+#   - Eclipse Public License v2.0
+# - - :permit
+#   - EPL 2.0
+# - - :permit
+#   - MPL 2.0 or EPL 1.0
+# - - :permit
+#   - GNU Library General Public License v2.1 or later
+# - - :permit
+#   - CDDL + GPLv2 with classpath exception
+# - - :permit
+#   - GNU Lesser General Public License
+# - - :permit
+#   - GNU Lesser General Public License version 2.1
+# - - :permit
+#   - "GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1"
+# - - :permit
+#   - GPLv2
+# - - :permit
+#   - GPL2 w/ CPE
+# - - :permit
+#   - Go License
