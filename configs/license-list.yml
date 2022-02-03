@@ -14,6 +14,8 @@
 - - :permit
   - New BSD
 - - :permit
+  - BSD style modified by Coverity
+- - :permit
   - Simplified BSD
 #### Apache Variants
 - - :permit
