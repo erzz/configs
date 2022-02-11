@@ -1,5 +1,11 @@
 ---
+
 # <--------------------- ALLOW LIST ---------------------->
+#### Badly implemented Skapa license field requires this
+- - :permit
+  - "SEE LICENSE IN LICENSE.md"
+- - :permit
+  - "SEE LICENSES IN README.md"
 #### BSD Variants
 - - :permit
   - 3-Clause BSD License
