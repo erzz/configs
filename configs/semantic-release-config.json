@@ -53,7 +53,10 @@
               "hidden": false
             }
           ]
-        }
+        },
+        "groupBy": ["type", "scope"],
+        "commitGroupsSort": [ "breaking", "feat", "fix", "chore", "perf" ],
+        "commitsSort": [ "header" ]
       }
     ],
     "@semantic-release/changelog",
