@@ -11,7 +11,7 @@
       {
         "preset": "conventionalcommits",
         "presetConfig": {
-          "issuePrefixes": "[A-Z]{3,4}-[0-9]{1,4}",
+          "issuePrefixes": ["[A-Z]{3,4}-[0-9]{1,4}"],
           "issueUrlFormat": "https://jira.digital.ingka.com/browse/{{prefix}}{{id}}",
           "types": [
             {
