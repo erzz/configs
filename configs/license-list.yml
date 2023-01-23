@@ -60,6 +60,12 @@
   - UNLICENSED
 - - :permit
   - W3C
+- - :permit
+  - github.com/hashicorp/hcl
+- - :permit
+  - v1.0.0
+- - :permit
+  - "Mozilla Public License 2.0"
 # <---------------------- DENY LIST ---------------------->
 - - :restrict
   - AGPL-3.0
