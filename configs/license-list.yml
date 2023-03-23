@@ -1,11 +1,10 @@
 ---
-
 # <--------------------- ALLOW LIST ---------------------->
 #### Badly implemented Skapa license field requires this
 - - :permit
-  - "SEE LICENSE IN LICENSE.md"
+  - 'SEE LICENSE IN LICENSE.md'
 - - :permit
-  - "SEE LICENSES IN README.md"
+  - 'SEE LICENSES IN README.md'
 #### BSD Variants
 - - :permit
   - 3-Clause BSD License
@@ -23,6 +22,8 @@
   - BSD style modified by Coverity
 - - :permit
   - Simplified BSD
+- - :permit
+  - INGKA GROUP INNER SOURCE LICENCE VERSION 1.0
 #### Apache Variants
 - - :permit
   - Apache 2.0
@@ -44,7 +45,7 @@
 - - :permit
   - CC0
 - - :permit
-  - "Public Domain, per Creative Commons CC0"
+  - 'Public Domain, per Creative Commons CC0'
 #### Other
 - - :permit
   - Bouncy Castle Licence
@@ -65,7 +66,7 @@
 - - :permit
   - v1.0.0
 - - :permit
-  - "Mozilla Public License 2.0"
+  - 'Mozilla Public License 2.0'
 # <---------------------- DENY LIST ---------------------->
 - - :restrict
   - AGPL-3.0
@@ -99,7 +100,7 @@
 - - :permit
   - GNU Lesser General Public License version 2.1
 - - :permit
-  - "GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1"
+  - 'GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1'
 - - :permit
   - GPLv2
 - - :permit
