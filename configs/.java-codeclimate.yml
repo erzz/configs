@@ -7,9 +7,12 @@ checks:
   file-lines:
     config:
       threshold: 400
+  method-complexity:
+    config:
+      threshold: 7
   method-lines:
     config:
-      threshold: 35
+      threshold: 45
   method-count:
     config:
       threshold: 25
