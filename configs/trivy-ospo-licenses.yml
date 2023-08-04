@@ -1,3 +1,10 @@
+format: table
+exit-code: 1
+severity:
+  - UNKNOWN
+  - HIGH
+  - CRITICAL
+ignorefile: .trivyignore
 scan:
   scanners:
     - license
