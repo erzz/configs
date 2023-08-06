@@ -103,6 +103,7 @@ license:
     - ZPL-2.0
     - ZPL-2.1
     - (BSD-2-Clause OR MIT OR Apache-2.0)
+    - MIT OR Apache-2.0
   permissive:
     - (MIT OR CC0-1.0)
     - (MIT OR WTFPL)
@@ -166,3 +167,4 @@ license:
     - Unlicense
     - 0BSD
     - SEE LICENSE IN LICENSE.md
+    - SEE LICENSES IN README.md
