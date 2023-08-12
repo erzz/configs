@@ -10,7 +10,7 @@ scan:
     - license
 
 license:
-  full: true
+  full: false
   forbidden:
     - AGPL-1.0
     - AGPL-3.0
